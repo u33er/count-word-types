@@ -1,0 +1,13 @@
+{
+    "$schema": "https://developer.microsoft.com/jsonschema/rush/deploy.schema.json",
+    "deployments": [
+      {
+        "packageName": "word-type-counter-app",
+        "projectFolder": "@frontend/word-type-counter-app"
+      },
+      {
+        "packageName": "word-type-counter-lambda",
+        "projectFolder": "@backend/word-type-counter-lambda"
+      }
+    ]
+  }
