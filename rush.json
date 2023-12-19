@@ -397,8 +397,8 @@
    */
   "projects": [
     {
-      "packageName": "word-counter",
-      "projectFolder": "@frontend/word-counter"
+      "packageName": "word-type-counter-app",
+      "projectFolder": "@frontend/word-type-counter-app"
     }
   ]
 }
